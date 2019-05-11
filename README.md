@@ -5,7 +5,7 @@ The goal of image captioning is to convert a given input image into a natural la
 
 ---
 
-##Correct predictions after training:
+## Correct predictions after training:
 
 ![](screenshots/succ1)
 
@@ -13,7 +13,7 @@ The goal of image captioning is to convert a given input image into a natural la
 
 ![](screenshots/succ3)
 
-##Some wrong predictions:
+## Some wrong predictions:
 
 ![](screenshots/fail1)
 
