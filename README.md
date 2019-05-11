@@ -5,18 +5,23 @@ The goal of image captioning is to convert a given input image into a natural la
 
 ---
 
-##Correct predictions after training:
+## Correct predictions after training:
 
-![](screenshots/succ1)
+![screenshot](https://github.com/vijaysinghkadam/Image-Captioning/blob/master/screenshots/succ1.png)
 
-![](screenshots/succ2)
+![screenshot](https://github.com/vijaysinghkadam/Image-Captioning/blob/master/screenshots/succ2.png)
 
-![](screenshots/succ3)
+![screenshot](https://github.com/vijaysinghkadam/Image-Captioning/blob/master/screenshots/succ3.png)
 
-##Some wrong predictions:
 
-![](screenshots/fail1)
 
-![](screenshots/fail2)
+## Some wrong predictions:
 
-![](screenshots/fail3)
+![screenshot](https://github.com/vijaysinghkadam/Image-Captioning/blob/master/screenshots/fail1.png)
+
+![screenshot](https://github.com/vijaysinghkadam/Image-Captioning/blob/master/screenshots/fail2.png)
+
+![screenshot](https://github.com/vijaysinghkadam/Image-Captioning/blob/master/screenshots/fail3.png)
+
+
+### Reference:- 
